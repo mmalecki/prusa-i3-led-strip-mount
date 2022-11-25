@@ -1,4 +1,3 @@
-include <parameters-design-rules.scad>;
 use <catchnhole/catchnhole.scad>;
 
 $fn = 100;
